@@ -1,0 +1,15 @@
+2018-10-31 01:53:10.542 [IPControllerApp] Hub listening on tcp://127.0.0.1:59800 for registration.
+2018-10-31 01:53:10.544 [IPControllerApp] Hub using DB backend: 'NoDB'
+2018-10-31 01:53:10.806 [IPControllerApp] hub::created hub
+2018-10-31 01:53:10.807 [IPControllerApp] writing connection info to /home/vagrant/.ipython/profile_default/security/ipcontroller-client.json
+2018-10-31 01:53:10.821 [IPControllerApp] writing connection info to /home/vagrant/.ipython/profile_default/security/ipcontroller-engine.json
+2018-10-31 01:53:10.821 [IPControllerApp] task::using Python leastload Task scheduler
+2018-10-31 01:53:10.821 [IPControllerApp] Heartmonitor started
+2018-10-31 01:53:10.852 [IPControllerApp] Creating pid file: /home/vagrant/.ipython/profile_default/pid/ipcontroller.pid
+2018-10-31 01:53:10.890 [IPControllerApp] client::client '\x003u\xfb\x1d' requested 'connection_request'
+2018-10-31 01:53:10.890 [IPControllerApp] client::client ['\x003u\xfb\x1d'] connected
+2018-10-31 01:53:10.894 [IPControllerApp] client::client '307c1bf4-f6c8-45b1-baaa-5967b3d3ae65' requested 'registration_request'
+2018-10-31 01:53:16.823 [IPControllerApp] registration::finished registering engine 0:307c1bf4-f6c8-45b1-baaa-5967b3d3ae65
+2018-10-31 01:53:16.824 [IPControllerApp] engine::Engine Connected: 0
+2018-10-31 02:02:30.929 [IPControllerApp] CRITICAL | Received signal 15, shutting down
+2018-10-31 02:02:30.936 [IPControllerApp] CRITICAL | terminating children...
